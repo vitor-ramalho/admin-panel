@@ -44,3 +44,64 @@ export const userData = [
         "Active User": 3000,
     },
 ];
+
+
+export const userRows = [
+    {
+        id: 1,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 2,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 3,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 4,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 5,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 6,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+    {
+        id: 7,
+        username: 'Jon Snow',
+        avatar: "https://yt3.ggpht.com/ytc/AKedOLR7Pyte1QDzt9iVaPgtqesM23SChJ9qFJvKpvI0Zw=s48-c-k-c0x00ffffff-no-rj",
+        email: 'jon@gmail.com',
+        status: 'Active',
+        transaction: "$120.00"
+    },
+
+];
